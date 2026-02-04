@@ -63,7 +63,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 - [HCKR news](http://hckrnews.com/)
 - [hn30](https://hn30.yamanlabs.com)
 - [HN Cake Day](http://bemmu.github.io/hncakeday/)
-- [HN Games - Videogames made by the HN community](https://hackernews.games/)
+- [HN Games - Videogames made by the HN community](https://hn-games.marcolabarile.me/)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/)
 - [HN Push](https://www.hnpush.com)
 - [HN Ratio](https://paradite.github.io/hn-ratio/)
